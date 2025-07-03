@@ -2,7 +2,7 @@
 
 This repository contains two Natural Language Processing (NLP) projects:
 
-1. **Text Summarization** – Automatically generates concise and coherent summaries of long text documents.
+1. **Text Summarization** –  generates concise and coherent summaries of long text documents.
 2. **Text Classification** – Categorizes text into predefined classes using a fine-tuned transformer model.
 
 ---
